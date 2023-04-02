@@ -4,7 +4,7 @@
 
 @layer base {
   body {
-    @apply font-body text-primary;
+    @apply font-body text-primary-darker;
   }
   .section {
     @apply py-24;

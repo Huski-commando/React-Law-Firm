@@ -1,11 +1,11 @@
 module.exports = {
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
-  theme: {
+  theme:{
     fontFamily: {
       primary: 'Playfair Display',
       body: 'Open Sans',
     },
-    screens: {
+    screens:{
       sm: '640px',
       md: '768px',
       lg: '1024px',
@@ -13,27 +13,25 @@ module.exports = {
     },
     extend: {
       colors: {
-        primary: {
+        primary:{
           DEFAULT: '#292A4A',
           darker: '#242546',
           hover: '#383956',
         },
-
-        accent: {
+        accent:{
           DEFAULT: '#CF9455',
           hover: '#BB864E',
         },
-
         gray: '#766F66',
         white: '#ffffff',
+
       },
       spacing: {
         54: '54px',
-        800: '800px',
+        800: '800px'
       },
-
       content: {
-        quote: 'url("assets/img/quoteMark.png")',
+        quote: 'url("assets/img/quoteMark.png")'
       },
     },
   },

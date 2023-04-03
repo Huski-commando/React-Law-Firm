@@ -1,5 +1,5 @@
 function App() {
-  return <div>React App</div>;
+  return <div>Law Firm App</div>;
 }
 
 export default App;

@@ -1,5 +1,12 @@
+// import components
+import { Header } from "./components";
+
 function App() {
-  return <div>Law Firm App</div>;
+  return (
+    <div>
+      <Header />
+    </div>
+  );
 }
 
 export default App;

@@ -5,6 +5,7 @@ import ProfilePhoto3 from "./profile3.png";
 import QuoteMark from "./quoteMark.png";
 
 import Logo from "./logo.png";
+
 import TeamMember1 from "./lawyer1.png";
 import TeamMember2 from "./lawyer2.png";
 import TeamMember3 from "./lawyer3.png";
